@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/raoqian/Desktop/AndroidFingerPrintDemo-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/raoqian/Desktop/AndroidFingerPrintDemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_0a924be284da930f7efe350bf30de3b89ae092f2.jar" />
+    </item>
+    <item
+        jar="/Library/Android/android-sdk/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/raoqian/Desktop/AndroidFingerPrintDemo-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_b6e2671f014691cf2fa5166b090667e3bb21a01f.jar" />
+    </item>
+    <item
+        jar="/Users/raoqian/Desktop/AndroidFingerPrintDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/raoqian/Desktop/AndroidFingerPrintDemo-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a58fcf1667e62262af405f134158385adf9d000f.jar" />
+    </item>
+    <item
+        jar="/Users/raoqian/Desktop/AndroidFingerPrintDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/raoqian/Desktop/AndroidFingerPrintDemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_f4c5d5bf3929e805aaf8349240377db7729ee83a.jar" />
+    </item>
+    <item
+        jar="/Users/raoqian/Desktop/AndroidFingerPrintDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/raoqian/Desktop/AndroidFingerPrintDemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_0bdb9dc53a20af7ce67183d5ffd76f614b7cd6a0.jar" />
+    </item>
+    <item
+        jar="/Users/raoqian/Desktop/AndroidFingerPrintDemo-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/raoqian/Desktop/AndroidFingerPrintDemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_42e687350ffa67b7069e6ffd178ebde68aa97f13.jar" />
+    </item>
+
+</items>
